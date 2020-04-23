@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.688,=D:\delphi_pr\metall\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.413,D:\delphi_pr\Project1.dproj=D:\delphi_pr\metall\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.255,=D:\delphi_pr\metall3_0\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,=D:\delphi_pr\Unit1.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
